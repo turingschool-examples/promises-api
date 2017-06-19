@@ -9,6 +9,7 @@
   "author": "Taylor Moore",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "express-cors": "0.0.3"
   }
