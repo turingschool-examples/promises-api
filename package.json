@@ -1,0 +1,15 @@
+{
+  "name": "promises-api",
+  "version": "1.0.0",
+  "description": "promises-practice api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Moore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-cors": "0.0.3"
+  }
+}
