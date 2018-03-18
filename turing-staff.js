@@ -2,37 +2,44 @@ module.exports =
 {
   bio: [
     {
-      name: 'Romeeka Gayhart',
+      name: 'Louisa Barrett',
       info: 'http://localhost:3001/api/bio/1'
     },
     {
-      name: 'Louisa Barrett',
+      name: 'Jhun de Andres',
       info: 'http://localhost:3001/api/bio/2'
     },
     {
-      name: 'Jhun de Andres',
+      name: 'Leta Keane',
       info: 'http://localhost:3001/api/bio/3'
     },
     {
-      name: 'Brenna Martenson',
+      name: 'Nathaniel Foster',
       info: 'http://localhost:3001/api/bio/4'
     },
     {
-      name: 'Nathaniel Foster',
+      name: 'Pam Lovett',
       info: 'http://localhost:3001/api/bio/5'
     },
     {
-      name: 'Taylor Moore',
+      name: 'Robbie Jaeger',
       info: 'http://localhost:3001/api/bio/6'
     },
     {
-      name: 'Robbie Jaeger',
+      name: 'Brittany Storoz',
       info: 'http://localhost:3001/api/bio/7'
     },
     {
-      name: 'Brittany Storoz',
+      name: 'Christie Lynam',
       info: 'http://localhost:3001/api/bio/8'
     },
+    {
+      name: 'Will Mitchell',
+      info: 'http://localhost:3001/api/bio/9'
+    },
+    {
+      name: 'David Whitaker',
+      info: 'http://localhost:3001/api/bio/10'
+    }
   ]
-
 }
