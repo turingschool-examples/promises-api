@@ -38,6 +38,6 @@ module.exports = {
   },
   10: {
     bio: 'Hannah had a variety of experience in both software and education before joining the team at Turing. Most recently, she worked as a front-end engineer for two different agencies. This experience helped her learn new languages and technologies quickly. As a young adult, Hannah did not know programming was an option for her. After working for a few years as a high school special education teacher she was feeling unhappy in her role and someone suggested that she look into web development bootcamps. This piece of advice changed her career trajectory and she was excited to find a field with opportunities for continued learning and creative work. She also loves to bake and has been hired as a professional birthday cake baker. In her spare time she also enjoys rock climbing, traveling, and spending time with her husband and cat.',
-    iamge: 'http://localhost:3001/hannah.jpg'
+    image: 'http://localhost:3001/hannah.jpg'
   }
 }
