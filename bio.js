@@ -5,16 +5,16 @@ module.exports = {
     image: 'http://localhost:3001/louisa.jpg'
   },
   2: {
-    bio: 'Jhun is a problem solver, a nonprofit professional, and a resourceful communicator. Prior to joining Turing, Jhun worked at a non-profit that providing mentoring and educational opportunities for at-risk youth in the Denver Public School system. Inspired by teaching but looking for an opportunity to deepen his impact in the community, Jhun turned to programming. He was attracted to Turing’s inclusive community and now as a Teaching Assistant he’s reach isn’t limited to a certain demographic, but rather he leverages programming to create positive change for a diverse group of people.',
-    image: 'http://localhost:3001/jhun.jpg'
+    bio: 'Before Turing, Travis worked as a junior engineer at Spruce Labs where he was responsible for software scalability, development architecture, dependency management, and cross-browser compatibility issues. Whether it is streamlining a process for a user or giving a user the ability to do something they have never had access to, Travis believes programming is made by people for the people. He loves solving problems and creating experiences that provide a better experience for others, and as a result, programming was a natural fit for him. He hopes that his skills in team building, organization, and software development will help teach and build the community at Turing. When he is not at Turing, he enjoys producing hip-hop beats, eating great food, and playing video games.',
+    image: 'http://localhost:3001/travis.jpg'
   },
   3: {
     bio: 'Creative problem-solver dedicated to efficient, empathetic communication, with a focus on producing clean, modular, testable code. I strive to exhibit and encourage curiosity, creativity, and critical thinking. As an educator at Turing School, I take joy in creating empathetic lessons, meeting students where they are, and being a cheerleader and guide on their paths to becoming software developers.',
     image: 'http://localhost:3001/leta.png'
   },
   4: {
-    bio: 'Passionate about learning, Nathaniel believes programming will always challenge him to learn more, and teaching at Turing is the ultimate form of deepening his programming knowledge. Before joining Turing, Nathaniel traveled around the US working remotely for Texas Roadhouse where he made mobile apps to digitize paper forms and increase communication between restaurants and their support center. His skills with JavaScript and building JavaScript mobile apps has given him insight into the challenges developers face and an appreciation for having a deep understanding of the tools used to create web applications. He believes that with programming, the world can gain a better understanding of how the world works and how we can change it.',
-    image: 'http://localhost:3001/nathaniel.jpg'
+    bio: 'Eric is a passionate educator and entrepreneur with several years of experience working in high-needs classrooms across Colorado and building his own small business. Eric is drawn to the blend of problem solving, creativity and grit required to be a successful programmer. He empowers his students to push beyond their comfort zones and embrace the struggle with learning a new, challenging skill. Eric leans on experiences learning programming and his odd sense of humor to help students level up their development skills. When he is not at Turing, you can likely find Eric either on the slopes, on a golf course, attending a concert or hanging with his trio of rescued cats.',
+    image: 'http://localhost:3001/eric.jpg'
   },
   5: {
     bio: 'I am a software developer with a background in online/affiliate marketing and education. I am passionate about problem-solving, helping others, and constantly indulging my intellectual curiosity. Geeking out over all things related to AI and the psychology of UX design is one of my favorite past-times, followed closely by eating good food. I want to work with people who care about being the best at what they do.',
@@ -25,19 +25,19 @@ module.exports = {
     image: 'http://localhost:3001/robbie.jpg'
   },
   7: {
-    bio: 'Brittany has been an emergency medical technician, a swim coach, and sports reporter but there is little she loves more than programming. She’s been a programmer for almost ten years, focusing on front-end HTML, CSS and JavaScript. After advancing her technical skills, Brittany found great reward in sharing her knowledge with others and was ultimately attracted to the scope and specificity of Turing’s programs. As a front end instructor with Turing, Brittany hopes to leverage teaching and mentorship to help other beginners become talented developers capable of creating change around them.',
-    image: 'http://localhost:3001/brittany.png'
-  },
-  8: {
-    bio: 'I am a front-end software developer and educator focused on personal development and community-driven learning. My transition from law to web development has equipped me with a unique and transferable skill set which includes strong critical thinking and creative problem solving. I am excited about combining my technical education with my passion for helping others to bring value to a team while making a positive impact on the world.',
-    image: 'http://localhost:3001/christie.jpg'
-  },
-  9: {
     bio: 'I love that as a software developer, my education is never over. There is always a new technology to learn, or a new methodology to try out. I believe the best code is that which has been thoroughly test driven, and has been built in a collaborative environment. I want to work with teams that value creative thinking, disruptive business solutions, and continuous mentorship.',
     image: 'http://localhost:3001/will.png'
   },
-  10: {
+  8: {
     bio: 'Full Stack Web Developer with a love for: UI/UX Development, JavaScript, HTML, CSS, React, Vue, Ember, Ruby, AWS, DevOps, and Open Source.',
     image: 'http://localhost:3001/david.png'
+  },
+  9: {
+    bio: 'Khalid believes that programming allows people to build improvements to their world, often on their own terms. The potential it creates for positive, creative change, as well as the flexibility it provides are the reasons he chose to enter this field of web development. Khalid studied at the Horizons School of Technology before joining Turing as a Teaching Assistant. When he is not at Turing, he enjoys running, hiking, playing bass, and watching movie.',
+    image: 'http://localhost:3001/khalid.jpg'
+  },
+  10: {
+    bio: 'Hannah had a variety of experience in both software and education before joining the team at Turing. Most recently, she worked as a front-end engineer for two different agencies. This experience helped her learn new languages and technologies quickly. As a young adult, Hannah did not know programming was an option for her. After working for a few years as a high school special education teacher she was feeling unhappy in her role and someone suggested that she look into web development bootcamps. This piece of advice changed her career trajectory and she was excited to find a field with opportunities for continued learning and creative work. She also loves to bake and has been hired as a professional birthday cake baker. In her spare time she also enjoys rock climbing, traveling, and spending time with her husband and cat.',
+    iamge: 'http://localhost:3001/hannah.jpg'
   }
 }

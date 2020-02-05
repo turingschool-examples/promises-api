@@ -6,7 +6,7 @@ module.exports =
       info: 'http://localhost:3001/api/bio/1'
     },
     {
-      name: 'Jhun de Andres',
+      name: 'Travis Rollins',
       info: 'http://localhost:3001/api/bio/2'
     },
     {
@@ -14,7 +14,7 @@ module.exports =
       info: 'http://localhost:3001/api/bio/3'
     },
     {
-      name: 'Nathaniel Foster',
+      name: 'Eric Weissman',
       info: 'http://localhost:3001/api/bio/4'
     },
     {
@@ -26,20 +26,20 @@ module.exports =
       info: 'http://localhost:3001/api/bio/6'
     },
     {
-      name: 'Brittany Storoz',
+      name: 'Will Mitchell',
       info: 'http://localhost:3001/api/bio/7'
     },
     {
-      name: 'Christie Lynam',
+      name: 'David Whitaker',
       info: 'http://localhost:3001/api/bio/8'
     },
     {
-      name: 'Will Mitchell',
+      name: 'Khalid Williams',
       info: 'http://localhost:3001/api/bio/9'
     },
     {
-      name: 'David Whitaker',
+      name: 'Hannah Hudson',
       info: 'http://localhost:3001/api/bio/10'
-    }
+    },
   ]
 }
